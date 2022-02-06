@@ -1,0 +1,2 @@
+WIN_SIZE = '580x700'
+WIN_TITLE = 'PlotIT'
