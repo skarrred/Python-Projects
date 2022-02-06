@@ -14,7 +14,7 @@ WIN.title(WIN_TITLE)
 
 
 def plot():
-    figg = Figure(figsize=(10,10), dpi=100)
+    figg = Figure(figsize=(6,6), dpi=100)
     the_plot = figg.add_subplot(111)
     the_plot.plot([12,23,45,56], [13,34,46,67])
 
