@@ -1,5 +1,6 @@
 A mini game created using Pygame
 -followed a tutorial on YT and made this
+-you might need to change some path variables for the images to load
 
 PLAYING CONTROLS:
 
