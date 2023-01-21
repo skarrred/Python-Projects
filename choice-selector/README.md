@@ -1,4 +1,4 @@
-A basic, array version of Picker Wheel using python.
+# A basic, array version of Picker Wheel using python.
 
 --> creates an array of choices/options defined by the user and stores in a text file using pickle.
 --> an already existing text file can also be used as long as it's in the same directory as the main file.
